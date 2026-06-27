@@ -9,30 +9,30 @@
 ---
 
 ## 基礎題
-- [ ] UVa 10041 - Vito’s family
-- [ ] UVa 10055 - Hashmat the brave warrior
-- [ ] UVa 10035 - Primary Arithmetic
-- [ ] UVa 100 - The 3n + 1 problem
-- [ ] UVa 10929 - You can say 11
-- [ ] UVa 10101 - Bangla Numbers
+- [x] UVa 10041 - Vito's family
+- [x] UVa 10055 - Hashmat the brave warrior
+- [x] UVa 10035 - Primary Arithmetic
+- [x] UVa 100 - The 3n + 1 problem
+- [x] UVa 10929 - You can say 11
+- [x] UVa 10101 - Bangla Numbers
 - [ ] UVa 10420 - List of Conquests
 
 ## 字元與字串
-- [ ] UVa 10008 - What’s Cryptanalysis?
+- [x] UVa 10008 - What's Cryptanalysis?
 - [ ] UVa 10222 - Decode the Mad man
 - [ ] UVa 11332 - Summing Digits
-- [ ] UVa 10252 - Common Permutation
+- [x] UVa 10252 - Common Permutation
 - [ ] UVa 490 - Rotating Sentences
 - [ ] UVa 272 - TeX Quotes
 
 ## 數學計算
 - [ ] UVa 12019 - Doom’s Day Algorithm
-- [ ] UVa 10038 - Jolly Jumpers
-- [ ] UVa 10056 - What is the Probability?
-- [ ] UVa 10170 - The Hotel with Infinite Rooms
-- [ ] UVa 10268 - 498-bis
-- [ ] UVa 10783 - Odd Sum
-- [ ] UVa 10812 - Beat the Spread!
+- [x] UVa 10038 - Jolly Jumpers
+- [x] UVa 10056 - What is the Probability?
+- [x] UVa 10170 - The Hotel with Infinite Rooms
+- [x] UVa 10268 - 498-bis
+- [x] UVa 10783 - Odd Sum
+- [x] UVa 10812 - Beat the Spread!
 - [ ] UVa 11349 - Symmetric Matrix
 - [ ] UVa 11461 - Square Numbers
 - [ ] UVa 11063 - B2-Sequence
@@ -61,9 +61,9 @@
 
 ## 排序與中位數
 - [ ] UVa 10057 - A mid-summer night’s dream
-- [ ] UVa 10062 - Tell me the frequencies!
-- [ ] UVa 299 - Train Swapping
-- [ ] UVa 10226 - Hardwood Species
+- [x] UVa 10062 - Tell me the frequencies!
+- [x] UVa 299 - Train Swapping
+- [x] UVa 10226 - Hardwood Species
 
 ## 模擬
 - [ ] UVa 10189 - Minesweeper
