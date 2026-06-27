@@ -15,18 +15,18 @@
 - [x] UVa 100 - The 3n + 1 problem
 - [x] UVa 10929 - You can say 11
 - [x] UVa 10101 - Bangla Numbers
-- [ ] UVa 10420 - List of Conquests
+- [x] UVa 10420 - List of Conquests
 
 ## 字元與字串
 - [x] UVa 10008 - What's Cryptanalysis?
-- [ ] UVa 10222 - Decode the Mad man
-- [ ] UVa 11332 - Summing Digits
+- [x] UVa 10222 - Decode the Mad man
+- [x] UVa 11332 - Summing Digits
 - [x] UVa 10252 - Common Permutation
-- [ ] UVa 490 - Rotating Sentences
-- [ ] UVa 272 - TeX Quotes
+- [x] UVa 490 - Rotating Sentences
+- [x] UVa 272 - TeX Quotes
 
 ## 數學計算
-- [ ] UVa 12019 - Doom’s Day Algorithm
+- [x] UVa 12019 - Doom's Day Algorithm
 - [x] UVa 10038 - Jolly Jumpers
 - [x] UVa 10056 - What is the Probability?
 - [x] UVa 10170 - The Hotel with Infinite Rooms
