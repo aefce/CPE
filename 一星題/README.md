@@ -33,13 +33,13 @@
 - [x] UVa 10268 - 498-bis
 - [x] UVa 10783 - Odd Sum
 - [x] UVa 10812 - Beat the Spread!
-- [ ] UVa 11349 - Symmetric Matrix
-- [ ] UVa 11461 - Square Numbers
-- [ ] UVa 11063 - B2-Sequence
-- [ ] UVa 10071 - Back to High School Physics
+- [x] UVa 11349 - Symmetric Matrix
+- [x] UVa 11461 - Square Numbers
+- [x] UVa 11063 - B2-Sequence
+- [x] UVa 10071 - Back to High School Physics
 
 ## 進位制轉換
-- [ ] UVa 10093 - An Easy Problem!
+- [x] UVa 10093 - An Easy Problem!
 - [ ] UVa 948 - Fibonaccimal Base
 - [ ] UVa 10019 - Funny Encryption Method
 - [ ] UVa 10931 - Parity
@@ -51,7 +51,7 @@
 - [ ] UVa 10190 - Divide, But Not Quite Conquer!
 - [ ] UVa 10235 - Simply Emirp
 - [ ] UVa 10922 - 2 the 9s
-- [ ] UVa 11417 - GCD
+- [x] UVa 11417 - GCD
 
 ## 幾何與座標
 - [ ] UVa 10908 - Largest Square
