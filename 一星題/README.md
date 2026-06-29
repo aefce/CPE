@@ -40,10 +40,10 @@
 
 ## 進位制轉換
 - [x] UVa 10093 - An Easy Problem!
-- [ ] UVa 948 - Fibonaccimal Base
-- [ ] UVa 10019 - Funny Encryption Method
+- [x] UVa 948 - Fibonaccimal Base
+- [x] UVa 10019 - Funny Encryption Method
 - [ ] UVa 10931 - Parity
-- [ ] UVa 11005 - Cheapest Base
+- [x] UVa 11005 - Cheapest Base
 
 ## 質數、因數與倍數
 - [ ] UVa 10050 - Hartals
