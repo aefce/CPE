@@ -42,13 +42,13 @@
 - [x] UVa 10093 - An Easy Problem!
 - [x] UVa 948 - Fibonaccimal Base
 - [x] UVa 10019 - Funny Encryption Method
-- [ ] UVa 10931 - Parity
+- [x] UVa 10931 - Parity
 - [x] UVa 11005 - Cheapest Base
 
 ## 質數、因數與倍數
-- [ ] UVa 10050 - Hartals
-- [ ] UVa 10193 - All You Need Is Love!
-- [ ] UVa 10190 - Divide, But Not Quite Conquer!
+- [x] UVa 10050 - Hartals
+- [x] UVa 10193 - All You Need Is Love!
+- [x] UVa 10190 - Divide, But Not Quite Conquer!
 - [ ] UVa 10235 - Simply Emirp
 - [ ] UVa 10922 - 2 the 9s
 - [x] UVa 11417 - GCD
