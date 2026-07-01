@@ -49,8 +49,8 @@
 - [x] UVa 10050 - Hartals
 - [x] UVa 10193 - All You Need Is Love!
 - [x] UVa 10190 - Divide, But Not Quite Conquer!
-- [ ] UVa 10235 - Simply Emirp
-- [ ] UVa 10922 - 2 the 9s
+- [x] UVa 10235 - Simply Emirp
+- [x] UVa 10922 - 2 the 9s
 - [x] UVa 11417 - GCD
 
 ## 幾何與座標
